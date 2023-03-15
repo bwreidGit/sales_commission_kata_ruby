@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby "2.7.6"
+ruby "3.2.1"
 
 group :development, :test do
-  gem "rspec"
+  gem "rspec", "~> 3.10"
 
 end
 
