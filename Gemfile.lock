@@ -19,12 +19,13 @@ GEM
 PLATFORMS
   ruby
   x64-mingw-ucrt
+  x64-mingw32
 
 DEPENDENCIES
   rspec (~> 3.10)
 
 RUBY VERSION
-   ruby 3.2.1p31
+   ruby 2.6.5p114
 
 BUNDLED WITH
    2.4.8
